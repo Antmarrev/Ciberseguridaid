@@ -1,3 +1,8 @@
 fastapi
 uvicorn
 python-nmap
+sqlalchemy
+streamlit
+requests
+pandas
+python-dotenv
