@@ -58,13 +58,13 @@ Modo CLI para automatización.
 ---
 
 ## 📸 Capturas
-### Dashboard
+### 📊Dashboard
 <img width="1893" height="833" alt="Captura de pantalla 2025-08-13 132024" src="https://github.com/user-attachments/assets/4c53edde-2d4b-4db7-aae9-eaafa46b2d2a" />
 
-### Escanear
+### 🛰Escanear
 <img width="1887" height="831" alt="Captura de pantalla 2025-08-13 132049" src="https://github.com/user-attachments/assets/682851b7-2808-46d9-a129-6c4481c105ff" />
 
-### Histórico
+### 📚Histórico
 <img width="1873" height="841" alt="Captura de pantalla 2025-08-13 132107" src="https://github.com/user-attachments/assets/49c3383c-021e-4d60-a94c-aac2f0729c32" />
 
 
